@@ -190,4 +190,4 @@ Functional verification and microarchitectural benchmarking (gem5, IPC/accuracy 
 Vicky Kumar
 
 Electronics Engineering
-IIT (BHU) Varanasi
+GCET
